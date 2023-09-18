@@ -1,0 +1,22 @@
+status_id,status Code,status_name
+158962,DROP,Agent Not Available
+63594,APRD,Already Product Purchased
+42103,BLCK,Blocked Number
+181943,CLBK,Call Back Request
+91334,CDRP,Call Dropped
+60518,UCNA,Preference Not Available
+219676,DELC,Dealer Call Check
+221165,ADCT,"Temporay, Number Closed"
+169326,HNGP,Hangup
+218880,INTR,Intrested Prospect
+149971,ALTL,Language Alternate
+135463,INCL,Lead Being Called
+198092,ADNA,No Answer AutoDial
+24534,NINT,Not Interested
+174765,OCNW,Out of City/ Travelling
+153286,POST,Plan Postponed
+51715,TEST,test
+50984,TEST,Test call
+100322,VNCL,Voice Not Clear
+91085,WDLK,Walking/ Travelling
+193737,WRNG,Wrong Number
